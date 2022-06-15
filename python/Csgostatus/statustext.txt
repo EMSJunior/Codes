@@ -1,0 +1,29 @@
+Connected to =[A:1:903836681:19047]:0
+hostname: Valve CS:GO South America Server (srcds1095-gru1.201.56)
+version : 1.38.1.1 secure
+os      :  Linux
+type    :  official dedicated
+map     : de_dust2
+players : 19 humans, 0 bots (20/0 max) (not hibernating)
+
+# userid name uniqueid connected ping loss state rate
+# 98 2 "♛Shockz♛" STEAM_1:0:243984066 13:06 78 0 active 196608
+# 88 4 "fabioHAzaRD" STEAM_1:1:530810614 24:36 42 0 active 200000
+# 131 5 "Ehpsker -4°" STEAM_1:0:230010663 00:50 60 0 active 625000
+# 124 6 "Ne0" STEAM_1:0:87846843 07:26 47 0 active 196608
+# 94 7 "ℂʘϞƮi" STEAM_1:1:114919178 22:23 48 0 active 786432
+# 86 8 "hard-to-kill" STEAM_1:1:593578083 26:05 39 0 active 196608
+# 125 9 "ToOkyo" STEAM_1:0:562858630 07:13 45 0 active 196608
+# 129 10 "rK" STEAM_1:1:627366739 02:43 48 0 active 786432
+# 25 11 "CioMaR" STEAM_1:1:96309312 58:50 52 0 active 786432
+# 99 12 "MatheusFiel" STEAM_1:1:52665144 12:00 38 0 active 196608
+# 90 13 "Muchacho_br" STEAM_1:0:37685455 24:30 50 0 active 196608
+# 130 14 "SemMira" STEAM_1:0:518997108 01:49 45 0 active 786432
+# 126 15 "6ix *" STEAM_1:1:227609384 05:49 59 0 active 786432
+# 72 16 "Venom" STEAM_1:1:393944 30:40 137 0 active 196608
+# 71 17 "miNØru" STEAM_1:1:89695333 31:46 62 0 active 196608
+# 102 18 "DINO" STEAM_1:0:562180379 08:41 98 0 active 786432
+# 128 19 "bala pença" STEAM_1:1:555217043 03:20 34 0 active 786432
+# 92 20 "♰" STEAM_1:0:489159887 24:17 38 0 active 786432
+# 95 21 "Emersp" STEAM_1:0:61634929 20:18 36 0 active 196608
+#end
