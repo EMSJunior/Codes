@@ -19,7 +19,7 @@ const RoutesApp = () => {
         <Routes>
           <Route exact path="/home" element={<Private Item={home} />} />
           <Route path="/" element={<Signin />} />
-          <Route extact path="/Signup" element={<Signup />} />
+          <Route exact path="/Signup" element={<Signup />} />
           <Route path="*" element={<Signin />} />
 
 
