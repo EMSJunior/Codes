@@ -21,5 +21,3 @@ for v in vetor:
     somas[soma] += 1
 
 print(resp)
-
-

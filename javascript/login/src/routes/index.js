@@ -21,8 +21,6 @@ const RoutesApp = () => {
           <Route path="/" element={<Signin />} />
           <Route exact path="/Signup" element={<Signup />} />
           <Route path="*" element={<Signin />} />
-
-
         </Routes>
       </Fragment>
     </BrowserRouter>

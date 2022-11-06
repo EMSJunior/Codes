@@ -1,0 +1,51 @@
+C:\Users\Aluno\source\repos\Gestão de Compras\bin\Debug\Gestão de Compras.exe.config
+C:\Users\Aluno\source\repos\Gestão de Compras\bin\Debug\Gestão de Compras.exe
+C:\Users\Aluno\source\repos\Gestão de Compras\bin\Debug\Gestão de Compras.pdb
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão_de_Compras.NovoLote.resources
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão_de_Compras.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão_de_Compras.Sobre.resources
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão_de_Compras.TodosLotes.resources
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão_de_Compras.VencimentoPersonalizado.resources
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão de Compras.exe
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão de Compras.pdb
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão_de_Compras.Main.resources
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão_de_Compras.Vencimento1.resources
+C:\Users\Aluno\source\repos\Gestão de Compras\obj\Debug\Gestão_de_Compras.Vencimento5.resources
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\bin\Debug\Gestão de Compras.exe.config
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\bin\Debug\Gestão de Compras.exe
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\bin\Debug\Gestão de Compras.pdb
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.AssemblyReference.cache
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.SuggestedBindingRedirects.cache
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão_de_Compras.Main.resources
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão_de_Compras.NovoLote.resources
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão_de_Compras.Properties.Resources.resources
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão_de_Compras.Sobre.resources
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão_de_Compras.TodosLotes.resources
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão_de_Compras.Vencimento1.resources
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão_de_Compras.Vencimento5.resources
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão_de_Compras.VencimentoPersonalizado.resources
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.GenerateResource.cache
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.CoreCompileInputs.cache
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão de Compras.exe
+C:\Users\jumen\Documents\Codes\c#\Gestão de Compras\obj\Debug\Gestão de Compras.pdb
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\bin\Debug\Gestão de Compras.exe.config
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\bin\Debug\Gestão de Compras.exe
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\bin\Debug\Gestão de Compras.pdb
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.AssemblyReference.cache
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.SuggestedBindingRedirects.cache
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão_de_Compras.Main.resources
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão_de_Compras.NovoLote.resources
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão_de_Compras.Properties.Resources.resources
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão_de_Compras.Sobre.resources
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão_de_Compras.TodosLotes.resources
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão_de_Compras.Vencimento1.resources
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão_de_Compras.Vencimento5.resources
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão_de_Compras.VencimentoPersonalizado.resources
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.GenerateResource.cache
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.CoreCompileInputs.cache
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão de Compras.exe
+C:\Users\jumen\Documents\Codes\c#\katerine\Gestão de Compras\obj\Debug\Gestão de Compras.pdb

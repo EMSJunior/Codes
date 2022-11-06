@@ -1,0 +1,26 @@
+2022/09/29-23:17:09.186 13b4 Reusing MANIFEST C:\Users\jumen\Documents\Codes\javascript\Criar2\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/29-23:17:09.187 13b4 Recovering log #169
+2022/09/29-23:17:09.285 13b4 Reusing old log C:\Users\jumen\Documents\Codes\javascript\Criar2\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000169.log 
+2022/09/29-23:17:33.363 13b4 Level-0 table #181: started
+2022/09/29-23:17:33.404 13b4 Level-0 table #181: 1189900 bytes OK
+2022/09/29-23:17:33.405 13b4 Delete type=0 #169
+2022/09/29-23:17:34.450 31a0 Compacting 1@1 + 8@2 files
+2022/09/29-23:17:34.614 31a0 Generated table #182@1: 36444 keys, 2239420 bytes
+2022/09/29-23:17:34.668 31a0 Generated table #183@1: 3418 keys, 2160043 bytes
+2022/09/29-23:17:34.722 31a0 Generated table #184@1: 2636 keys, 2163733 bytes
+2022/09/29-23:17:34.772 31a0 Generated table #185@1: 2922 keys, 2161517 bytes
+2022/09/29-23:17:34.876 31a0 Generated table #186@1: 22567 keys, 2213592 bytes
+2022/09/29-23:17:35.000 31a0 Generated table #187@1: 32985 keys, 2266672 bytes
+2022/09/29-23:17:35.145 31a0 Generated table #188@1: 58789 keys, 2206788 bytes
+2022/09/29-23:17:35.294 31a0 Generated table #189@1: 72715 keys, 1569651 bytes
+2022/09/29-23:17:35.294 31a0 Compacted 1@1 + 8@2 files => 16981416 bytes
+2022/09/29-23:17:35.295 31a0 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/09/29-23:17:35.296 31a0 Delete type=2 #171
+2022/09/29-23:17:35.296 31a0 Delete type=2 #172
+2022/09/29-23:17:35.296 31a0 Delete type=2 #173
+2022/09/29-23:17:35.296 31a0 Delete type=2 #174
+2022/09/29-23:17:35.296 31a0 Delete type=2 #175
+2022/09/29-23:17:35.297 31a0 Delete type=2 #176
+2022/09/29-23:17:35.297 31a0 Delete type=2 #177
+2022/09/29-23:17:35.297 31a0 Delete type=2 #178
+2022/09/29-23:17:35.297 31a0 Delete type=2 #181

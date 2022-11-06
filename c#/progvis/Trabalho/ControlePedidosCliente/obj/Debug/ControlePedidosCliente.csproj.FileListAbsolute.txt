@@ -1,0 +1,14 @@
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\bin\Debug\ControlePedidosCliente.exe.config
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\bin\Debug\ControlePedidosCliente.exe
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\bin\Debug\ControlePedidosCliente.pdb
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.csproj.AssemblyReference.cache
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.Home.resources
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.Properties.Resources.resources
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.csproj.GenerateResource.cache
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.csproj.CoreCompileInputs.cache
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.exe
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.pdb
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.Produtos.resources
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.Pedidos.resources
+C:\Users\jumen\Documents\Codes\c#\progvis\Trabalho\ControlePedidosCliente\obj\Debug\ControlePedidosCliente.CadastroDeItem.resources

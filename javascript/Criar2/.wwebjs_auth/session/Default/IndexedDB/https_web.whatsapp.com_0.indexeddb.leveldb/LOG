@@ -1,0 +1,41 @@
+2022/09/29-23:18:03.350 302c Reusing MANIFEST C:\Users\jumen\Documents\Codes\javascript\Criar2\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/29-23:18:03.351 302c Recovering log #180
+2022/09/29-23:18:03.574 302c Reusing old log C:\Users\jumen\Documents\Codes\javascript\Criar2\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000180.log 
+2022/09/29-23:18:24.019 302c Level-0 table #192: started
+2022/09/29-23:18:24.066 302c Level-0 table #192: 1177224 bytes OK
+2022/09/29-23:18:24.067 302c Delete type=0 #180
+2022/09/29-23:18:24.076 447c Compacting 1@1 + 8@2 files
+2022/09/29-23:18:24.213 447c Generated table #193@1: 38486 keys, 2245291 bytes
+2022/09/29-23:18:24.260 447c Generated table #194@1: 3397 keys, 2157465 bytes
+2022/09/29-23:18:24.309 447c Generated table #195@1: 2629 keys, 2162349 bytes
+2022/09/29-23:18:24.366 447c Generated table #196@1: 2845 keys, 2162209 bytes
+2022/09/29-23:18:24.458 447c Generated table #197@1: 21469 keys, 2205682 bytes
+2022/09/29-23:18:24.588 447c Generated table #198@1: 27764 keys, 2266416 bytes
+2022/09/29-23:18:24.721 447c Generated table #199@1: 56407 keys, 2204207 bytes
+2022/09/29-23:18:24.853 447c Generated table #200@1: 90197 keys, 1940659 bytes
+2022/09/29-23:18:24.853 447c Compacted 1@1 + 8@2 files => 17344278 bytes
+2022/09/29-23:18:24.854 447c compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/09/29-23:18:52.476 302c Level-0 table #202: started
+2022/09/29-23:18:52.517 302c Level-0 table #202: 1142119 bytes OK
+2022/09/29-23:18:52.518 302c Delete type=2 #182
+2022/09/29-23:18:52.518 302c Delete type=2 #183
+2022/09/29-23:18:52.518 302c Delete type=2 #184
+2022/09/29-23:18:52.518 302c Delete type=2 #185
+2022/09/29-23:18:52.518 302c Delete type=2 #186
+2022/09/29-23:18:52.518 302c Delete type=2 #187
+2022/09/29-23:18:52.518 302c Delete type=2 #188
+2022/09/29-23:18:52.518 302c Delete type=2 #189
+2022/09/29-23:18:52.518 302c Delete type=0 #191
+2022/09/29-23:18:52.518 302c Delete type=2 #192
+2022/09/29-23:18:53.537 4020 Compacting 1@1 + 8@2 files
+2022/09/29-23:18:53.687 4020 Generated table #203@1: 40185 keys, 2248598 bytes
+2022/09/29-23:18:53.759 4020 Generated table #204@1: 3398 keys, 2170275 bytes
+2022/09/29-23:18:53.820 4020 Generated table #205@1: 2623 keys, 2162987 bytes
+2022/09/29-23:18:53.871 4020 Generated table #206@1: 2796 keys, 2161685 bytes
+2022/09/29-23:18:53.972 4020 Generated table #207@1: 20609 keys, 2199463 bytes
+2022/09/29-23:18:54.096 4020 Generated table #208@1: 26071 keys, 2269280 bytes
+2022/09/29-23:18:54.224 4020 Generated table #209@1: 51459 keys, 2197995 bytes
+2022/09/29-23:18:54.404 4020 Generated table #210@1: 105306 keys, 2256733 bytes
+2022/09/29-23:18:54.409 4020 Generated table #211@1: 717 keys, 17775 bytes
+2022/09/29-23:18:54.409 4020 Compacted 1@1 + 8@2 files => 17684791 bytes
+2022/09/29-23:18:54.411 4020 compacted to: files[ 0 0 9 0 0 0 0 ]

@@ -1,0 +1,17 @@
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\bin\Debug\Gestão de Compras.exe.config
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\bin\Debug\Gestão de Compras.exe
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\bin\Debug\Gestão de Compras.pdb
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.AssemblyReference.cache
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.SuggestedBindingRedirects.cache
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão_de_Compras.Form1.resources
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão_de_Compras.NovoLote.resources
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão_de_Compras.Properties.Resources.resources
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão_de_Compras.Sobre.resources
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão_de_Compras.TodosOsLotes.resources
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão_de_Compras.VencimentoCinco.resources
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão_de_Compras.VencimentoPersonalizado.resources
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão_de_Compras.VencimentoUm.resources
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.GenerateResource.cache
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão de Compras.csproj.CoreCompileInputs.cache
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão de Compras.exe
+C:\Users\jumen\Documents\Codes\c#\Kheuhy\Gestão de Compras\obj\Debug\Gestão de Compras.pdb
